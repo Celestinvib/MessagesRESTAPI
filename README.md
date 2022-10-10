@@ -5,7 +5,6 @@ The best comunity posts of the web!<br>
 Dummy API project built with [NodeJs](https://nodejs.org/en/about/) version 16.15.1 &  deployed in <a href="https://www.heroku.com/home"> heroku</a>.
 Uses an external noSQL database in MongoDb.
 
-The spring app and the database are deployed on<a href="https://www.heroku.com/home"> heroku</a>.
 ## ⚙Features 
 * Basic CRUD + Personalized functions
 * Pagination
